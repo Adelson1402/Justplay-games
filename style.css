@@ -1,0 +1,42 @@
+.painel{
+  display: flex;
+  flex-flow: row wrap;
+  align-content: space-between;
+  justify-content: space-between;
+  
+}
+
+.img-panel{
+  width: 400px;
+  background: gold;
+  border: 1px solid black;
+  font-size: 30px;
+  line-height: 100px;
+  text-align: center;
+  margin: 10px;
+  border-radius: 20px;
+}
+
+.hidden{
+    display: none;
+}
+
+.x360{
+  color: green;
+}
+
+.bi{
+  margin-left: 10px;
+}
+
+.black{
+  color: black;
+}
+
+.white{
+  color:cyan;
+}
+
+.blue{
+  color: blue;
+}
