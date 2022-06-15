@@ -125,8 +125,6 @@ function buildPlataforms(platforms, subPanel){
 
         iconPlatform.title = platform.platform.name;
 
-        iconPlatform.webkitMatchesSelector
-
         divPlatform.appendChild(iconPlatform);
     }
 
